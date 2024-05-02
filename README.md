@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hey 👋
 
+Je m'appelle Dorian !
+Je suis actuellement étudiant en BTS SIO option SLAM à l'école IPSSI de Marne-la-Vallée. 
+Passionné par l'informatique et les nouvelles technologies je m'applique à concevoir des solutions innovantes et performantes.
 <!--
 **EvilKroma/EvilKroma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
