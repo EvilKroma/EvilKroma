@@ -1,6 +1,6 @@
 ### Hey 👋
 
-My nale is Dorian !
+My name is Dorian !
 I'm dev web junior, currently a BTS SIO student at IPSSI in Marne-la-Vallée. 
 I'm passionate about IT and new technologies, and I'm always keen to develop innovative solutions.
 <!--
