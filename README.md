@@ -3,6 +3,8 @@
 My name is Dorian !
 I'm dev web junior, currently a BTS SIO student at IPSSI in Marne-la-Vallée. 
 I'm passionate about IT and new technologies, and I'm always keen to develop innovative solutions.
+
+Take a look at me : https://evilkroma.github.io/Portfolio-DENEUCHATEL-Dorian/index.html
 <!--
 **EvilKroma/EvilKroma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
