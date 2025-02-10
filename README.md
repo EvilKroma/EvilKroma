@@ -10,3 +10,5 @@ Continuously learning and expanding my knowledge in software development.
 🔗 Check out my portfolio: https://evilkroma.github.io/Portfolio-DENEUCHATEL-Dorian/
 
 📫 Get in touch: deneuchateldorian205@gmail.com
+
+🙋 LinkedIn : https://www.linkedin.com/in/dorian-deneuchatel-27928325a/
