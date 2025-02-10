@@ -1,21 +1,12 @@
-### Hey 👋
+## Hey there! 👋
+I'm Dorian, a junior developer passionate about IT and new technologies.
+Currently, I'm a BTS SIO SLAM student at IPSSI in Marne-la-Vallée, always eager to learn and build innovative solutions.
 
-My name is Dorian !
-I'm dev web junior, currently a BTS SIO student at IPSSI in Marne-la-Vallée. 
-I'm passionate about IT and new technologies, and I'm always keen to develop innovative solutions.
+🚀 What I'm up to:
 
-Take a look at me : https://evilkroma.github.io/Portfolio-DENEUCHATEL-Dorian/index.html
-<!--
-**EvilKroma/EvilKroma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Exploring new technologies and improving my skills through different projects.
+Continuously learning and expanding my knowledge in software development.
 
-Here are some ideas to get you started:
+🔗 Check out my portfolio: evilkroma.github.io/Portfolio-DENEUCHATEL-Dorian
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Get in touch: deneuchateldorian205@gmail.com
