@@ -7,8 +7,8 @@ Currently, I'm a BTS SIO SLAM student at IPSSI in Marne-la-Vallée, always eager
 Exploring new technologies and improving my skills through different projects.
 Continuously learning and expanding my knowledge in software development.
 
-🔗 Check out my portfolio: https://evilkroma.github.io/Portfolio-DENEUCHATEL-Dorian/
+🔗 Check out my portfolio: https://portfoliodoriandeneuchatel.vercel.app
 
-📫 Get in touch: deneuchateldorian@gmail.com
+📫 Get in touch: dorian.dev.contact@gmail.com
 
 🙋 LinkedIn : https://www.linkedin.com/in/dorian-deneuchatel-27928325a/
