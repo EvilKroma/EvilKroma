@@ -4,8 +4,7 @@
 Previously graduated from a **BTS SIO SLAM**, I’m now sharpening my skills in **web development**, **mobile applications**, and **software engineering**.  
 
 🚀 **What I'm up to**  
-- Building innovative projects and experimenting with new technologies  
-- Strengthening my expertise in **React**, **Spring Boot**, and **Flutter**  
+- Building innovative projects and experimenting with new technologies
 - Continuously learning and improving my engineering mindset  
 
 🌐 **Portfolio**: [My Work](dorian-dev.fr)  
