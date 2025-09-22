@@ -1,14 +1,13 @@
-## Hey there! 👋
-I'm Dorian, a junior developer passionate about IT and new technologies.
-Currently, I'm a BTS SIO SLAM student at IPSSI in Marne-la-Vallée, always eager to learn and build innovative solutions.
+# 👋 Hi, I'm Dorian  
 
-🚀 What I'm up to:
+💻 I'm an apprentice engineer at **ESIEE Paris**, passionate about IT, software development, and new technologies.  
+Previously graduated from a **BTS SIO SLAM**, I’m now sharpening my skills in **web development**, **mobile applications**, and **software engineering**.  
 
-Exploring new technologies and improving my skills through different projects.
-Continuously learning and expanding my knowledge in software development.
+🚀 **What I'm up to**  
+- Building innovative projects and experimenting with new technologies  
+- Strengthening my expertise in **React**, **Spring Boot**, and **Flutter**  
+- Continuously learning and improving my engineering mindset  
 
-🔗 Check out my portfolio: https://portfoliodoriandeneuchatel.vercel.app
-
-📫 Get in touch: dorian.dev.contact@gmail.com
-
-🙋 LinkedIn : https://www.linkedin.com/in/dorian-deneuchatel-27928325a/
+🌐 **Portfolio**: [My Work](dorian-dev.fr)  
+📫 **Contact**: dorian.dev.contact@gmail.com  
+🔗 **LinkedIn**: [Dorian Deneuchatel](https://www.linkedin.com/in/dorian-deneuchatel-27928325a/)  
