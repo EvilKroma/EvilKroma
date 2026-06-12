@@ -17,15 +17,15 @@
 <img src="https://img.shields.io/badge/Portfolio-Visit_Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/dorian-deneuchatel">
+<a href="www.linkedin.com/in/dorian-deneuchatel-27928325a">
 <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:deneuchateldorian@gmail.com">
+<a href="mailto:dorian.dev.contact@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact_Me-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/DorianDeneuchatel">
+<a href="https://github.com/EvilKroma">
 <img src="https://img.shields.io/badge/GitHub-Profile-312E81?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -104,130 +104,25 @@ I enjoy building products that combine strong engineering principles with real b
 | Domain | Proficiency | Details |
 |----------|----------|----------|
 | Generative AI | Advanced | LLM integrations, prompt engineering, AI workflows |
-| AI Product Development | Advanced | AI-powered SaaS applications and automation |
-| AI APIs | Advanced | Gemini, OpenAI, Anthropic integrations |
-| Machine Learning Fundamentals | Intermediate | Model evaluation, datasets, pipelines |
+<!-- | AI Product Development | Advanced | AI-powered SaaS applications and automation | -->
+<!-- | AI APIs | Advanced | Gemini, OpenAI, Anthropic integrations | -->
+<!-- | Machine Learning Fundamentals | Intermediate | Model evaluation, datasets, pipelines | -->
 | RAG Systems | Intermediate | Knowledge retrieval and contextual generation |
 | AI Automation | Advanced | Workflow automation and business processes |
 | AI Agents | Intermediate | Multi-step reasoning and autonomous workflows |
-| AI-Assisted Development | Advanced | Copilot, Cursor, LLM-driven engineering |
+<!--  | AI-Assisted Development | Advanced | Copilot, Cursor, LLM-driven engineering | -->
 
 ---
 
 # Featured Projects
 
-<details>
-<summary><b>Service Marketplace Platform</b></summary>
-
-### Overview
-
-Uber-style platform connecting customers with essential service professionals such as plumbers, electricians, locksmiths and technicians.
-
-| Category | Details |
-|----------|----------|
-| Stack | Flutter, Node.js, REST API, Firebase |
-| Scale | Multi-user platform |
-| Performance | Optimized mobile-first architecture |
-| Security | JWT Authentication |
-| Impact | Digitalization of local services |
-| Repository | Private |
-
-### Engineering Highlights
-
-- Mobile-first experience
-- Real-time service requests
-- Secure authentication flow
-- Geolocation integration
-- Scalable API architecture
-- Modern UX patterns
-
-</details>
-
-<details>
-<summary><b>Industrial Information System Modernization</b></summary>
-
-### Overview
-
-Large-scale modernization initiative involving migration from legacy systems toward maintainable microservices architecture within an industrial environment.
-
-| Category | Details |
-|----------|----------|
-| Stack | Java, PHP, Docker, Kubernetes |
-| Scale | Enterprise Information System |
-| Performance | Optimized deployment pipelines |
-| Security | Internal enterprise standards |
-| Impact | Increased maintainability |
-| Repository | Confidential |
-
-### Engineering Highlights
-
-- Legacy migration strategy
-- CI/CD automation
-- Infrastructure modernization
-- RFID integration
-- Production workflow optimization
-- Enterprise software engineering
-
-</details>
-
-<details>
-<summary><b>E-Commerce Payment Integration Platform</b></summary>
-
-### Overview
-
-Modern e-commerce implementation featuring secure payment processing and scalable backend architecture.
-
-| Category | Details |
-|----------|----------|
-| Stack | React, Node.js, Stripe |
-| Scale | Commercial Web Platform |
-| Performance | Optimized checkout workflows |
-| Security | PCI-aware payment integration |
-| Impact | Revenue enablement |
-| Repository | Private |
-
-### Engineering Highlights
-
-- Stripe integration
-- API-first architecture
-- Secure transaction handling
-- Responsive design
-- Business-focused engineering
-
-</details>
-
-<details>
-<summary><b>Cybersecurity Web Hardening Initiative</b></summary>
-
-### Overview
-
-Security-focused project aimed at reducing attack surface across enterprise web applications.
-
-| Category | Details |
-|----------|----------|
-| Stack | JavaScript, Security Headers |
-| Scale | Enterprise Applications |
-| Performance | Minimal overhead |
-| Security | CSP, Nonce Management |
-| Impact | Reduced XSS exposure |
-| Repository | Confidential |
-
-### Engineering Highlights
-
-- CSP implementation
-- Security audits
-- Frontend vulnerability remediation
-- Secure development practices
-
-</details>
-
 ---
 
 # Experience
 
-## Information Systems Engineering Apprentice — Roto France Impression (Groupe Maury)
+## Information Systems Engineering Apprentice - Roto France Impression (Maury Group)
 
-**September 2025 — Present**
+**September 2025 - Present**
 
 Contributing to enterprise software modernization initiatives focused on industrial information systems, microservices architectures, deployment automation, and infrastructure reliability.
 
@@ -248,9 +143,9 @@ Contributing to enterprise software modernization initiatives focused on industr
 
 ---
 
-## Web Developer Apprentice — Nids Consulting
+## Web Developer Apprentice - Nids Consulting
 
-**September 2024 — May 2025**
+**September 2024 - May 2025**
 
 Development of custom business applications with API integrations, deployment automation, maintenance, and client support.
 
@@ -268,9 +163,9 @@ Development of custom business applications with API integrations, deployment au
 
 ---
 
-## Web Development & Cybersecurity Intern — EasyVista
+## Web Development & Cybersecurity Intern - EasyVista
 
-**May 2024 — June 2024**
+**May 2024 - June 2024**
 
 Worked on improving application security posture through implementation of security policies and mitigation of frontend vulnerabilities.
 
@@ -306,18 +201,6 @@ Worked on improving application security posture through implementation of secur
 
 # Certifications
 
-## AWS
-
-![AWS](https://img.shields.io/badge/AWS-Learning_Path-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-## Oracle
-
-![Oracle](https://img.shields.io/badge/Oracle-Java_Ecosystem-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-## NPTEL
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Continuous_Learning-5B21B6?style=for-the-badge)
-
 ## Cisco
 
 ![Introduction to Cybersecurity](https://img.shields.io/badge/Cisco-Introduction_To_Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
@@ -327,30 +210,6 @@ Worked on improving application security posture through implementation of secur
 ![React](https://img.shields.io/badge/OpenClassrooms-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-Pre_Security-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
-
----
-
-# Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com">
-<img src="https://img.shields.io/badge/LeetCode-Problem_Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Coding_Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com">
-<img src="https://img.shields.io/badge/HackerRank-Programming-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-</a>
-
-<a href="https://www.codechef.com">
-<img src="https://img.shields.io/badge/CodeChef-Competitive_Coding-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-</div>
 
 ---
 
@@ -436,15 +295,15 @@ Open_To:
 
 <div align="center">
 
-<a href="mailto:deneuchateldorian@gmail.com">
+<a href="mailto:dorian.dev.contact@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/dorian-deneuchatel">
+<a href="www.linkedin.com/in/dorian-deneuchatel-27928325a">
 <img src="https://img.shields.io/badge/LinkedIn-Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/DorianDeneuchatel">
+<a href="https://github.com/EvilKroma">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
