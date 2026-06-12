@@ -104,17 +104,9 @@ I enjoy building products that combine strong engineering principles with real b
 | Domain | Proficiency | Details |
 |----------|----------|----------|
 | Generative AI | Advanced | LLM integrations, prompt engineering, AI workflows |
-<!-- | AI Product Development | Advanced | AI-powered SaaS applications and automation | -->
-<!-- | AI APIs | Advanced | Gemini, OpenAI, Anthropic integrations | -->
-<!-- | Machine Learning Fundamentals | Intermediate | Model evaluation, datasets, pipelines | -->
 | RAG Systems | Intermediate | Knowledge retrieval and contextual generation |
 | AI Automation | Advanced | Workflow automation and business processes |
 | AI Agents | Intermediate | Multi-step reasoning and autonomous workflows |
-<!--  | AI-Assisted Development | Advanced | Copilot, Cursor, LLM-driven engineering | -->
-
----
-
-# Featured Projects
 
 ---
 
@@ -236,26 +228,6 @@ Worked on improving application security posture through implementation of secur
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=EvilKroma&theme=algolia&no-frame=true&column=7"/>
-
-</div>
-
----
-
-# Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EvilKroma&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-<img src="[https://raw.githubusercontent.com/EvilKroma/EvilKroma/output/](https://raw.githubusercontent.com/EvilKroma/EvilKroma/output/)/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
