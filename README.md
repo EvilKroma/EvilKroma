@@ -99,17 +99,6 @@ I enjoy building products that combine strong engineering principles with real b
 
 ---
 
-# AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|----------|----------|----------|
-| Generative AI | Advanced | LLM integrations, prompt engineering, AI workflows |
-| RAG Systems | Intermediate | Knowledge retrieval and contextual generation |
-| AI Automation | Advanced | Workflow automation and business processes |
-| AI Agents | Intermediate | Multi-step reasoning and autonomous workflows |
-
----
-
 # Experience
 
 ## Information Systems Engineering Apprentice - Roto France Impression (Maury Group)
@@ -193,15 +182,11 @@ Worked on improving application security posture through implementation of secur
 
 # Certifications
 
-## Cisco
+[![Introduction to Cybersecurity](https://img.shields.io/badge/Cisco-Introduction_To_Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.linkedin.com/in/dorian-deneuchatel-27928325a/overlay/1705593338162/single-media-viewer?profileId=ACoAAD_Blb0BZtsyfnJuPrc79qw92FP9rK3rnOI)
 
-![Introduction to Cybersecurity](https://img.shields.io/badge/Cisco-Introduction_To_Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+[![React](https://img.shields.io/badge/OpenClassrooms-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://www.linkedin.com/in/dorian-deneuchatel-27928325a/overlay/1736163364100/single-media-viewer?profileId=ACoAAD_Blb0BZtsyfnJuPrc79qw92FP9rK3rnOI)
 
-## Additional
-
-![React](https://img.shields.io/badge/OpenClassrooms-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-![TryHackMe](https://img.shields.io/badge/TryHackMe-Pre_Security-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Pre_Security-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://www.linkedin.com/in/dorian-deneuchatel-27928325a/overlay/Certifications/1878346721/treasury?profileId=ACoAAD_Blb0BZtsyfnJuPrc79qw92FP9rK3rnOI)
 
 ---
 
