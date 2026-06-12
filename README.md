@@ -208,16 +208,6 @@ Worked on improving application security posture through implementation of secur
 
 ---
 
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=EvilKroma&theme=algolia&no-frame=true&column=7"/>
-
-</div>
-
----
-
 # Current Focus
 
 ```yaml
