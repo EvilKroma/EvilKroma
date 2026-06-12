@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/Portfolio-Visit_Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="www.linkedin.com/in/dorian-deneuchatel-27928325a">
+<a href="https://www.linkedin.com/in/dorian-deneuchatel-27928325a">
 <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -31,9 +31,9 @@
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=DorianDeneuchatel&style=for-the-badge&color=7C3AED)
-![](https://img.shields.io/github/followers/DorianDeneuchatel?style=for-the-badge&color=6366F1)
-![](https://img.shields.io/github/stars/DorianDeneuchatel?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=A855F7)
+![](https://komarev.com/ghpvc/?username=EvilKroma&style=for-the-badge&color=7C3AED)
+![](https://img.shields.io/github/followers/EvilKroma?style=for-the-badge&color=6366F1)
+![](https://img.shields.io/github/stars/EvilKroma?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=A855F7)
 
 </div>
 
@@ -217,15 +217,15 @@ Worked on improving application security posture through implementation of secur
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DorianDeneuchatel&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EvilKroma&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DorianDeneuchatel&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=EvilKroma&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DorianDeneuchatel&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvilKroma&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -235,7 +235,7 @@ Worked on improving application security posture through implementation of secur
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=DorianDeneuchatel&theme=algolia&no-frame=true&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=EvilKroma&theme=algolia&no-frame=true&column=7"/>
 
 </div>
 
@@ -245,7 +245,7 @@ Worked on improving application security posture through implementation of secur
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DorianDeneuchatel&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EvilKroma&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -255,7 +255,7 @@ Worked on improving application security posture through implementation of secur
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/DorianDeneuchatel/DorianDeneuchatel/output/github-contribution-grid-snake-dark.svg" />
+<img src="[https://raw.githubusercontent.com/EvilKroma/EvilKroma/output/](https://raw.githubusercontent.com/EvilKroma/EvilKroma/output/)/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
@@ -299,7 +299,7 @@ Open_To:
 <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="www.linkedin.com/in/dorian-deneuchatel-27928325a">
+<a href="https://www.linkedin.com/in/dorian-deneuchatel-27928325a">
 <img src="https://img.shields.io/badge/LinkedIn-Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
