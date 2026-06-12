@@ -32,7 +32,6 @@
 <br/>
 
 ![](https://komarev.com/ghpvc/?username=EvilKroma&style=for-the-badge&color=7C3AED)
-![](https://img.shields.io/github/followers/EvilKroma?style=for-the-badge&color=6366F1)
 ![](https://img.shields.io/github/stars/EvilKroma?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=A855F7)
 
 </div>
