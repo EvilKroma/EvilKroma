@@ -189,24 +189,6 @@ Worked on improving application security posture through implementation of secur
 
 ---
 
-# GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EvilKroma&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=EvilKroma&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvilKroma&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # Current Focus
 
 ```yaml
