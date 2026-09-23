@@ -1,14 +1,15 @@
-<div align="center">
+# <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:4F46E5,50:7C3AED,100:A855F7&text=Dorian%20Deneuchatel&fontColor=ffffff&fontSize=48&fontAlignY=40&desc=Computer%20Engineering%20Student%20%7C%20AI-focused%20Projects%20%7C%20Software%20%26%20Systems&descAlignY=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:A855F7&text=Dorian%20Deneuchatel&fontColor=ffffff&fontSize=50&fontAlignY=40&desc=Computer%20Engineering%20Student%20%7C%20AI%20Projects%20%7C%20Software%20%26%20Systems&descAlignY=60" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Engineering+Student+at+ESIEE+Paris;Exploring+Generative+AI%2C+RAG+%26+LLMs;Python+%7C+Embeddings+%7C+Vector+Search;Software+Engineering+%7C+DevOps+%7C+Infrastructure;Looking+for+a+2-year+AI-focused+apprenticeship" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Engineering+Student+at+ESIEE+Paris;Generative+AI+%7C+RAG+%7C+LLMs;Python+%7C+Embeddings+%7C+Semantic+Search;DevOps+%7C+Docker+%7C+Kubernetes;Looking+for+a+2-year+AI-focused+apprenticeship" />
 
 <br/>
 
-
-
-
+![ESIEE Paris](https://img.shields.io/badge/ESIEE_Paris-Engineering_Student-6D28D9?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-AI_Engineering_%26_GenAI-4F46E5?style=for-the-badge)
+![Alternance](https://img.shields.io/badge/Work_Study-Looking_for_AI_Role-7C3AED?style=for-the-badge)
+![Location](https://img.shields.io/badge/France-Île--de--France-6366F1?style=for-the-badge)
 
 <br/>
 
@@ -17,85 +18,124 @@
 </a>
 
 <a href="https://www.linkedin.com/in/dorian-deneuchatel-27928325a">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:dorian.dev.contact@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact_Me-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br/><br/>
+<a href="https://github.com/EvilKroma">
+<img src="https://img.shields.io/badge/GitHub-Profile-312E81?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
+<br/>
 
+![](https://komarev.com/ghpvc/?username=EvilKroma&style=for-the-badge&color=7C3AED)
+![](https://img.shields.io/github/stars/EvilKroma?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=A855F7)
 
 </div>
 
-About Me
+---
 
-I am a computer engineering student at ESIEE Paris with a background in software development, information systems, DevOps and infrastructure.
+# About
 
-Over time, I have become increasingly interested in AI engineering, especially the design and integration of systems built around:
+Computer Engineering student at **ESIEE Paris** with a background in software development, information systems, infrastructure and DevOps.
 
-Generative AI
+I am progressively specializing in **Artificial Intelligence engineering**, with a particular interest in:
 
-Large Language Models
+- Generative AI
+- Retrieval-Augmented Generation (RAG)
+- Large Language Models
+- Embeddings & semantic search
+- Vector databases
+- AI integration into real-world information systems
 
-Retrieval-Augmented Generation (RAG)
+I enjoy working at the intersection of **software engineering and AI**: understanding how to design a system, connect models to real data, evaluate retrieval quality, integrate APIs, deploy services and keep applications maintainable in production environments.
 
-Embeddings and semantic search
+### Open To
 
-Vector databases
+- AI Engineering Apprenticeships
+- Generative AI Projects
+- RAG / LLM Projects
+- Applied AI Opportunities
+- AI-Integrated Software Projects
+- Open Source Collaboration
+- Technical Collaborations
 
-AI-powered business applications
+---
 
-My goal is not only to call an AI API, but to understand how to design, integrate, evaluate and deploy AI-based systems inside real software and information-system environments.
+# Tech Stack
 
-My broader software and infrastructure background helps me approach AI projects with questions such as:
+## AI & Data
 
-How should the system be architected?
+<p align="center">
+<img src="https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-Generative_AI-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embeddings-Semantic_Search-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Chroma-Vector_DB-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-AI_Framework-312E81?style=for-the-badge"/>
+</p>
 
-How do we connect models to business data?
+## Languages
 
-How do we evaluate retrieval quality and generated answers?
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cs,php,js,ts,dart,bash" />
+</p>
 
-How do we deploy and maintain the solution?
+## Frontend
 
-How do we keep the system reliable, observable and useful to end users?
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,flutter" />
+</p>
 
-I am currently looking for a 2-year apprenticeship focused on AI engineering while continuing my engineering degree.
+## Backend & Databases
 
-AI & Engineering Projects
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,spring,mysql,postgres,firebase,supabase" />
+</p>
 
-RAG — Question Answering over Technical Documentation
+## Cloud, DevOps & Tooling
 
-Python · LangChain · Chroma · Embeddings · Gemini · Hugging Face
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,linux,git,github,postman,vscode" />
+</p>
 
-Built a Retrieval-Augmented Generation pipeline capable of answering questions from a document corpus.
+---
 
-What I explored
+# Featured AI Projects
 
-Document chunking with overlap
+## RAG - Assistant de questions/réponses sur une documentation
 
-Local embedding generation
+A Retrieval-Augmented Generation system designed to answer questions from a document corpus.
 
-Vector storage and semantic retrieval
+### What I built
 
-Context injection into an LLM
+- Document chunking with overlap
+- Local embedding generation
+- Vector storage with Chroma
+- Semantic similarity search
+- Context retrieval
+- LLM-based answer generation
+- Debug mode to inspect retrieved chunks and relevance scores
 
-Retrieval inspection and relevance evaluation
+**Stack**
 
-Reducing hallucinations by grounding answers in retrieved documents
+`Python` `LangChain` `Chroma` `Gemini` `HuggingFace` `Embeddings`
 
-🔗 View the repository
+<a href="https://github.com/EvilKroma/RAG">
+<img src="https://img.shields.io/badge/View_Project-GitHub-312E81?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-Semantic Maintenance Incident Matching — Prototype
+---
 
-Python · Embeddings · Cosine Similarity · LLM · Semantic Search
+## Prototype de rapprochement sémantique de fiches de maintenance
 
-Prototype developed in an industrial context to explore how past maintenance incidents can be retrieved even when technicians describe similar problems using different wording.
+Prototype developed in an industrial context to explore how similar maintenance incidents can be retrieved even when technicians use different wording.
 
-Current approach
+### Current pipeline
 
+```text
 Maintenance records
         ↓
 Text preparation
@@ -109,184 +149,163 @@ Candidate incidents
 Context comparison with an LLM
         ↓
 Suggested similar incidents
+```
 
-This project is still an ongoing prototype.
+This project is still an **ongoing prototype** and allows me to explore similarity thresholds, semantic retrieval, contextual validation and result relevance.
 
-It allows me to explore the combination of deterministic retrieval techniques and LLM-based contextual analysis, as well as questions around similarity thresholds, false positives and result relevance.
+**Stack**
 
-Loaden — Fitness Application with AI Features
+`Python` `Embeddings` `Cosine Similarity` `LLM` `Semantic Search`
 
-TypeScript · React · Capacitor · Supabase · LLM APIs
+---
 
-Mobile fitness application including AI-assisted features such as:
+## Loaden - Application mobile de suivi d'entraînement
 
-Conversational coaching
+Mobile fitness application with AI-assisted features.
 
-User-context-aware responses
+### AI Features
 
-Structured workout generation
+- Context-aware conversational coach
+- User-specific context injection
+- Structured workout generation
+- Multimodal experimentation
 
-Multimodal experimentation
+**Stack**
 
-🔗 More details on my portfolio
+`React` `TypeScript` `Capacitor` `Supabase` `LLM APIs`
 
-Hand Tracking + Arduino
+<a href="https://dorian-dev.fr">
+<img src="https://img.shields.io/badge/View_Project-Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-Python · MediaPipe · Arduino · Computer Vision
+---
 
-Real-time hand gesture detection used to control a physical servomotor through a serial connection.
+## Hand Tracking IA + Arduino
 
-This project helped me experiment with the link between AI perception, software and physical hardware.
+Computer vision experiment using real-time hand landmark detection to control a physical servo motor.
 
-Engineering Background
+### What I built
 
-My AI interests are built on top of a broader engineering background.
+- Real-time hand tracking with MediaPipe
+- Gesture interpretation
+- Python ↔ Arduino serial communication
+- Physical servo control
 
-Software Engineering
+**Stack**
 
-Python Java PHP JavaScript TypeScript C# REST APIs
+`Python` `MediaPipe` `Arduino` `Computer Vision`
 
-AI / GenAI
+---
 
-RAG LLMs Embeddings Vector Databases LangChain Semantic Search Prompt Engineering
+# Experience
 
-DevOps & Systems
+## Information Systems Engineering Apprentice - Roto France Impression (Maury Group)
 
-Docker Kubernetes Jenkins CI/CD Linux Bash VMware ESXi
+**September 2025 - Present**
 
-Databases
+Contributing to industrial information systems across software development, infrastructure, deployment and AI experimentation.
 
-MySQL PostgreSQL Supabase Firebase Chroma
+### Scope of Work
 
-Frontend & Mobile
+- Development and modernization of business applications
+- Internal RAG experimentation
+- Semantic maintenance incident matching prototype
+- Java and PHP development
+- CI/CD implementation with Jenkins
+- Kubernetes administration
+- Linux environments
+- RFID systems integration
+- Production software support
 
-React Node.js Capacitor Flutter Tailwind CSS
+**Skills**
 
-Experience
+`Python` `LangChain` `Java` `PHP` `Jenkins` `Kubernetes` `Linux`
 
-Information Systems Engineering Apprentice — Roto France Impression
+---
 
-September 2025 — Present
+## Web Developer Apprentice - Nids Consulting
 
-Working within an industrial information-system environment across software development, infrastructure, deployment and experimentation with AI use cases.
+**September 2024 - May 2025**
 
-Selected work
+Development of custom business applications with API integrations, deployment automation, maintenance and client support.
 
-Development and modernization of internal business applications
+### Scope of Work
 
-Exploration of RAG and semantic-search use cases
+- Full-stack development
+- REST API integrations
+- CI/CD deployment automation
+- Software maintenance
+- Client collaboration
 
-Prototype for semantic matching of maintenance records
+**Skills**
 
-Java / PHP application development
+`React` `Node.js` `REST APIs` `CI/CD` `Git`
 
-CI/CD with Jenkins
+---
 
-Kubernetes and Linux environments
+## Web Development & Cybersecurity Intern - EasyVista
 
-Integration of industrial devices and RFID systems
+**May 2024 - June 2024**
 
-Technologies
+Worked on improving application security through implementation of security policies and mitigation of frontend vulnerabilities.
 
-Python Java PHP LangChain Chroma Jenkins Kubernetes Linux
+### Scope of Work
 
-Web Developer Apprentice — Nids Consulting
+- CSP implementation
+- Nonce management
+- XSS prevention
+- Frontend security improvements
 
-September 2024 — May 2025
+**Skills**
 
-Development and maintenance of business applications for external clients.
+`Cybersecurity` `JavaScript` `CSP` `Web Security`
 
-Selected work
+---
 
-REST API integrations
+# Current Focus
 
-Authentication and backend development
-
-Deployment automation
-
-Production maintenance
-
-Client communication and requirement analysis
-
-Technologies
-
-JavaScript Node.js REST APIs CI/CD Git
-
-Web Development & Cybersecurity Intern — EasyVista
-
-May 2024 — June 2024
-
-Worked on application-security improvements.
-
-Selected work
-
-Content Security Policy implementation
-
-Nonce management
-
-XSS risk reduction
-
-Frontend security improvements
-
-Technologies
-
-PHP JavaScript CSP Web Security
-
-Current Focus
-
+```yaml
 Learning:
-  - AI engineering fundamentals
-  - Generative AI systems
-  - RAG evaluation
+  - AI Engineering Fundamentals
+  - Generative AI Systems
+  - RAG Evaluation
   - Agentic AI
-  - Applied machine learning fundamentals
+  - Applied Machine Learning Fundamentals
 
 Building:
-  - RAG systems
-  - Semantic search prototypes
-  - AI-powered applications
-  - Software integrating LLMs with real-world data
+  - RAG Systems
+  - Semantic Search Prototypes
+  - AI-Powered Applications
+  - Software Integrating LLMs with Real Data
 
 Strengthening:
   - Python
-  - AI system architecture
-  - Docker and Kubernetes
-  - APIs and backend engineering
-  - Evaluation and observability
+  - AI System Architecture
+  - APIs
+  - Docker
+  - Kubernetes
+  - Evaluation & Observability
 
 Looking_For:
-  - 2-year AI-focused apprenticeship
-  - AI / GenAI engineering projects
-  - Applied AI environments
-  - Technical teams working on real-world AI systems
+  - 2-Year AI-Focused Apprenticeship
+  - Applied AI / GenAI Opportunities
+  - RAG / LLM Engineering Projects
+  - Real-World AI Systems
+```
 
-Beyond AI
+---
 
-I also enjoy working on projects involving:
+# Certifications
 
-Infrastructure and self-hosting
+[![Introduction to Cybersecurity](https://img.shields.io/badge/Cisco-Introduction_To_Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.linkedin.com/in/dorian-deneuchatel-27928325a/)
 
-Mobile applications
+[![React](https://img.shields.io/badge/OpenClassrooms-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://www.linkedin.com/in/dorian-deneuchatel-27928325a/)
 
-Arduino and electronics
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Pre_Security-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://www.linkedin.com/in/dorian-deneuchatel-27928325a/)
 
-Game development
+---
 
-Full-stack software
-
-Developer tooling and automation
-
-My goal is to keep this broad engineering foundation while making AI engineering my main specialization.
-
-Certifications
-
-Introduction to Cybersecurity — Cisco
-
-Pre Security — TryHackMe
-
-React — OpenClassrooms
-
-Connect
+# Connect
 
 <div align="center">
 
@@ -308,10 +327,12 @@ Connect
 
 </div>
 
+---
+
 <div align="center">
 
-"Building a strong engineering foundation while specializing in applied AI systems."
+*"Building a strong engineering foundation while specializing in applied AI systems."*
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:4F46E5,50:7C3AED,100:A855F7"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:4F46E5,50:7C3AED,100:A855F7"/>
